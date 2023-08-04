@@ -6,7 +6,8 @@ import Projects from './projects';
 import AboutMe from './aboutme';
 import App from './App';
 import Home from './home';
-import NotFound from './notfound';
+import NotFound from './notFound';
+
 
 
 const routes = createBrowserRouter([
