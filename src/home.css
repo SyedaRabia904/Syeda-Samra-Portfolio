@@ -66,6 +66,7 @@
   transform: rotateY(360deg);
 }
 /* For screens with a width of 768px or less */
+
 @media (max-width: 768px) {
   .image-main-container {
     display: flex;
@@ -83,10 +84,9 @@
   }
 
   .image-container img {
-    margin: 10px;
-    width: 100px; /* Adjust the width as per your desired size */
-    height: 100px; /* Adjust the height as per your desired size */
+    margin: 5px; /* Adjust margin for smaller spacing between images */
+    width: 60px; /* Adjust the width for smaller screens */
+    height: 60px; /* Adjust the height for smaller screens */
     transition: transform 0.5s ease;
   }
 }
-
