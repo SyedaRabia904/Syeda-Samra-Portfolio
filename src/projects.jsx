@@ -45,7 +45,7 @@ const Projects = () => {
                     <button type="button" class="btn ">CSS</button>
                     <button type="button" class="btn ">React</button>
                     <button type="button" class="btn ">Bootstrap</button></div>
-                   <a href='https://syedarabia.vercel.app/'><button style={{backgroundColor:'hsl(207, 91%, 45%)'}} className='btn'>Preview</button></a>
+                   <a href='https://syedasamra.vercel.app/'><button style={{backgroundColor:'hsl(207, 91%, 45%)'}} className='btn'>Preview</button></a>
                 </div>               
               </div>             
             </div>
@@ -67,7 +67,7 @@ const Projects = () => {
                     <button type="button" class="btn ">CSS</button>
                     <button type="button" class="btn ">Js</button>
                     <button type="button" class="btn ">Bootstrap</button></div>
-                   <a href='https://stackblitz.com/edit/web-platform-hwvb4h?file=readme'><button style={{backgroundColor:'hsl(207, 91%, 45%)'}}className='btn'>Preview</button></a>
+                   <a href='https://stackblitz.com/edit/web-platform-kdwrrd?file=readme'><button style={{backgroundColor:'hsl(207, 91%, 45%)'}}className='btn'>Preview</button></a>
                 </div>               
               </div>             
             </div>
