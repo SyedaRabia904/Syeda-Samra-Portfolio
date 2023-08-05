@@ -7,7 +7,7 @@ const Home = () => {
       <div className='type'> 
         <p>Hi! This is Syeda Samra</p>
         <p>A Front End Developer</p>
-        <p>Becoming a Mern Stack Developer.</p>
+        <p>Embarking on Mern Stack Mastery!</p>
       </div>
       <div className='image-main-container'>
       <div className="image-container">
