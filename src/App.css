@@ -87,7 +87,7 @@ input[type=checkbox] {
     display:none;
     position: absolute;
     background-color: #283037;
-    ;
+    z-index: 5;
     right: 0;
     left: 0;
     text-align: center;
